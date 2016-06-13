@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[avaveen]]></title>
         <description><![CDATA[avaveen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/avaveen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 10:57:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 13 Jun 2016 13:33:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/avaveen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maya Hayuk]]></title>
+            <description><![CDATA[<article><h1>Maya Hayuk</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b48c18f1fe3fb32b4d1e53803d8e472695a86e5c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/avaveen/maya-hayuk/index.html</link>
+            <guid isPermaLink="false">2c3907f1-bb95-458f-9f68-7edaf817159e</guid>
+            <pubDate>Mon, 13 Jun 2016 13:33:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[avaveen see avaveen do]]></title>
             <description><![CDATA[<article><h1>avaveen see avaveen do</h1><p>avaveen is nothing you can expect. Active in communication, design and audiovisual fields she shares her tips and her vision of life: simple, fun, tasty and original.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62ad79481037f2411847a3f00321b8b2e0d95718.jpg"></article>]]></description>
-            <link>undefinedavaveen-see-avaveen-do/index.html</link>
+            <link>https://thegrid.ai/avaveen/avaveen-see-avaveen-do/index.html</link>
             <guid isPermaLink="false">a733e613-e98c-46a7-810c-f46f5c6e5018</guid>
             <pubDate>Mon, 13 Jun 2016 10:57:42 GMT</pubDate>
         </item>
