@@ -1,8 +1,9 @@
 ---
-dateModified: '2016-06-13T16:08:12.434Z'
-description: Artistic paint stains on clothes trend ; T-shirt and sweat pants.
-inLanguage: en
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'http://blog.avaveen.com/2015/08/impeccably-stained.html?m=1'
+inLanguage: en
 keywords:
   - cid
   - collectif
@@ -14,20 +15,22 @@ keywords:
   - forum
   - welcome
   - remember
+description: Artistic paint stains on clothes trend ; T-shirt and sweat pants.
+datePublished: '2016-06-13T16:26:18.476Z'
+dateModified: '2016-06-13T16:17:38.194Z'
+title: avaveen see avaveen do
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-13-avaveen-see-avaveen-do.md
+authors: []
 publisher:
+  name: Avaveen
   domain: blog.avaveen.com
+  url: 'http://blog.avaveen.com'
   favicon: >-
     http://lh6.ggpht.com/_y-CiLp2iMFY/SzzJpabcG1I/AAAAAAAACRg/a7Xdt-ET338/s128/favipng.png
-  name: Avaveen
-  url: 'http://blog.avaveen.com'
-title: avaveen see avaveen do
-author: []
-datePublished: '2016-06-13T16:17:36.082Z'
 starred: false
-sourcePath: _posts/2016-06-13-avaveen-see-avaveen-do.md
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
