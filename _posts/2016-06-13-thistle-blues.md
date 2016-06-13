@@ -1,20 +1,20 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-13T09:14:45.058Z'
-dateModified: '2016-06-13T09:06:36.201Z'
+datePublished: '2016-06-13T09:21:48.466Z'
+dateModified: '2016-06-13T09:21:32.595Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-13-thistle-blues.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-13-thistle-blues.md
-url: thistle-blues/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/925d46da-969e-44be-ad4b-bb1afdf450b3.jpg)
