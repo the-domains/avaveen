@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-13T09:36:37.765Z'
-dateModified: '2016-06-13T09:36:20.542Z'
+datePublished: '2016-06-13T09:36:59.431Z'
+dateModified: '2016-06-13T09:36:42.498Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-thistle-blues.md
