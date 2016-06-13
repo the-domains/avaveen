@@ -16,8 +16,8 @@ description: >-
   life was a constant concern, with the artists exploring the so-called applied
   arts in this same aim. Their actions were underpinned by a very practical
   social project: to bring art within every person's reach.
-datePublished: '2016-06-13T15:56:55.684Z'
-dateModified: '2016-06-13T15:56:35.739Z'
+datePublished: '2016-06-13T15:57:16.852Z'
+dateModified: '2016-06-13T15:56:56.413Z'
 title: Belgian Geometrical Abstraction
 author:
   - name: Ariane van der Veen
