@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-13T09:36:59.431Z'
-dateModified: '2016-06-13T09:36:42.498Z'
+datePublished: '2016-06-13T10:38:17.313Z'
+dateModified: '2016-06-13T09:39:42.969Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-thistle-blues.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: avaveen/index.html
 _type: Blurb
 
