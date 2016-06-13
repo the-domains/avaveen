@@ -8,8 +8,8 @@ description: >-
   avaveen is nothing you can expect. Active in communication, design and
   audiovisual fields she shares her tips and her vision of life: simple, fun,
   tasty and original.
-datePublished: '2016-06-13T14:52:52.632Z'
-dateModified: '2016-06-13T14:21:09.576Z'
+datePublished: '2016-06-13T14:53:24.417Z'
+dateModified: '2016-06-13T14:53:01.498Z'
 title: Belgian Geometrical Abstraction
 author:
   - name: Ariane van der Veen
