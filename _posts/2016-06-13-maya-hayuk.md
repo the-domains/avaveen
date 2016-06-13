@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-13T13:50:13.834Z'
-dateModified: '2016-06-13T13:50:12.396Z'
+datePublished: '2016-06-13T14:16:09.354Z'
+dateModified: '2016-06-13T14:15:52.241Z'
 title: Maya Hayuk
 author: []
 sourcePath: _posts/2016-06-13-maya-hayuk.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: maya-hayuk/index.html
 _type: Article
 
