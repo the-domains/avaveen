@@ -1,7 +1,7 @@
 name: avaveen
 favicon: null
-layout_spectrum: 0.99706
-typography_spectrum: 0.37084
+layout_spectrum: 0.74658
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.24534066556952894
-  lightness: 0.3337423512712121
+  brandStrength: 0.5
+  lightness: 1
   saturation: 0.40391817153431475
   rhythmicContrast: 0.6865719021297991
 purpose: []
