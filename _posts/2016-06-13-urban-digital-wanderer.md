@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Urban Digital Wanderer '
-datePublished: '2016-06-13T09:45:52.531Z'
-dateModified: '2016-06-13T09:43:02.892Z'
+datePublished: '2016-06-13T10:10:40.586Z'
+dateModified: '2016-06-13T09:45:58.623Z'
 title: AVAVEEN
 author: []
 sourcePath: _posts/2016-06-13-urban-digital-wanderer.md
