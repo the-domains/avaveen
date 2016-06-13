@@ -1,28 +1,18 @@
-name: avaveen
-favicon: null
-layout_spectrum: 0.74723
-typography_spectrum: 0.49804
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#6d726b'
-    - '#fefefe'
-    - '#001018'
-    - '#ca1911'
-    - '#f9df35'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 0.125
-  rhythmicContrast: 0.25
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5
+  lightness: 0.27796
+  rhythmicContrast: 0.75
+  saturation: 0.509046
+cta: {}
+layout_spectrum: 0.99511
+name: avaveen
+opengraph: {}
 purpose: []
+typography_spectrum: 0.193256
