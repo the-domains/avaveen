@@ -1,19 +1,19 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-13T09:21:48.466Z'
-dateModified: '2016-06-13T09:21:32.595Z'
+datePublished: '2016-06-13T09:36:37.765Z'
+dateModified: '2016-06-13T09:36:20.542Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-thistle-blues.md
 authors: []
 publisher: null
-starred: false
+starred: true
+url: avaveen/index.html
 _type: Blurb
 
 ---
