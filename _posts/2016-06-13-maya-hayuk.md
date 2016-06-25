@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-13T16:37:05.408Z'
-dateModified: '2016-06-13T16:37:04.000Z'
+datePublished: '2016-06-25T12:25:34.558Z'
+dateModified: '2016-06-25T12:23:56.175Z'
 title: Maya Hayuk
 author:
   - name: avaveen
@@ -23,4 +23,5 @@ _type: Article
 
 # Maya Hayuk
 
-* 2013 Exhibition at **Alice Gallery** in Brussels
+* With their symmetrical compositions, intricate patterns, and lush colors, Maya Hayuk's paintings and massively scaled murals recall views of outer space, traditional Ukrainian crafts, airbrushed manicures, and mandalas. Hayuk weaves visual information from her immediate surroundings into her elaborate abstractions, creating an engaging mix of referents from popular culture and advanced painting practices alike while connecting to the ongoing pursuit of psychedelic experience in visual form. She has painted her iconic outdoor murals all over the world and, when not traveling, maintains an active studio in Brooklyn, sketching in paint to inform the large-scale works. She sees her studio painting practice and mural making as both inversely relational and symbiotic.
+* \[extract from Maya Hayuk website\]
