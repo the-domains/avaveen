@@ -4,7 +4,7 @@
         <description><![CDATA[avaveen]]></description>
         <link>https://thegrid.ai/avaveen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 12:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 16:54:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avaveen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Maya Hayuk]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/avaveen/maya-hayuk/index.html</link>
             <guid isPermaLink="false">2c3907f1-bb95-458f-9f68-7edaf817159e</guid>
             <pubDate>Sat, 25 Jun 2016 12:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Audresselles ]]></title>
+            <description><![CDATA[<article><h1>Audresselles </h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f01c06d-9299-48a6-b4eb-40798d3e86b8.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f01c06d-9299-48a6-b4eb-40798d3e86b8.jpg</link>
+            <guid isPermaLink="false">16dd65dd-f1b9-4166-a21f-2c381901a0f6</guid>
+            <pubDate>Sun, 26 Jun 2016 16:54:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[avaveen see avaveen do]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.avaveen.com/2015/08/impeccably-stained.html?m=1</link>
             <guid isPermaLink="false">ccdef9e5-5cba-4ecb-aae2-d7758dab8fc0</guid>
             <pubDate>Mon, 13 Jun 2016 16:26:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belgian Geometrical Abstraction]]></title>
-            <description><![CDATA[<article><h1>Belgian Geometrical Abstraction</h1><p>This exhibition invites visitors to discover Belgian Geometric Abstraction through its various manifestations since 1945. At the end of the Second World War, abstraction made a reappearance, expressed in the form of two distinct leanings: lyrical and geometric. Geometric abstraction was adopted by a group of artists who shared certain ideals relating to structure and measurements, and who joined forces from the mid-40s to mutually support their means of expression – based on geometry. They sought to contribute to rebuilding their society, notably by creating public artworks. Incorporating art into daily life was a constant concern, with the artists exploring the so-called applied arts in this same aim. Their actions were underpinned by a very practical social project: to bring art within every person's reach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62ad79481037f2411847a3f00321b8b2e0d95718.jpg"></article>]]></description>
-            <link>https://thegrid.ai/avaveen/avaveen-see-avaveen-do/index.html</link>
-            <guid isPermaLink="false">a733e613-e98c-46a7-810c-f46f5c6e5018</guid>
-            <pubDate>Mon, 13 Jun 2016 15:57:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
