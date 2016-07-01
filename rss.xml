@@ -4,7 +4,7 @@
         <description><![CDATA[avaveen]]></description>
         <link>https://thegrid.ai/avaveen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 16:54:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 14:29:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avaveen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Maya Hayuk]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/avaveen/maya-hayuk/index.html</link>
             <guid isPermaLink="false">2c3907f1-bb95-458f-9f68-7edaf817159e</guid>
             <pubDate>Sat, 25 Jun 2016 12:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sebal, ABS[CON]]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43b5c374-06c9-4d7c-9e69-a29ca715deed.jpg">]]></description>
+            <link>https://thegrid.ai/avaveen/sebal-abscon/index.html</link>
+            <guid isPermaLink="false">ffd53542-3b9d-4e54-9a81-0b1732cb1b3e</guid>
+            <pubDate>Fri, 01 Jul 2016 14:29:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Audresselles ]]></title>
@@ -68,13 +75,6 @@
             <link>http://mobile.lesoir.be/1075401/article/victoire/design/2015-12-21/une-eglise-transformee-en-skatepark</link>
             <guid isPermaLink="false">96b18e28-cdef-4065-bab0-e17bba096495</guid>
             <pubDate>Mon, 13 Jun 2016 16:29:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[avaveen see avaveen do]]></title>
-            <description><![CDATA[<article><h1>avaveen see avaveen do</h1><p>Artistic paint stains on clothes trend ; T-shirt and sweat pants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f7aeee2cc69526067b3621ae016db1dfde35358.jpg"></article>]]></description>
-            <link>http://blog.avaveen.com/2015/08/impeccably-stained.html?m=1</link>
-            <guid isPermaLink="false">ccdef9e5-5cba-4ecb-aae2-d7758dab8fc0</guid>
-            <pubDate>Mon, 13 Jun 2016 16:26:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
