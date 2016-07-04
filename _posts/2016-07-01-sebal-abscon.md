@@ -5,16 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-01T14:29:37.088Z'
-dateModified: '2016-07-01T14:29:06.599Z'
+datePublished: '2016-07-04T18:19:31.489Z'
+dateModified: '2016-07-01T14:29:42.274Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-07-01-sebal-abscon.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-01-sebal-abscon.md
 url: sebal-abscon/index.html
 _type: Article
 
