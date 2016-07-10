@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-04T18:20:10.146Z'
-dateModified: '2016-07-04T18:20:09.729Z'
+datePublished: '2016-07-10T10:22:56.678Z'
+dateModified: '2016-07-10T10:22:46.858Z'
 title: Maya Hayuk
 author:
   - name: avaveen
@@ -16,7 +16,7 @@ authors: []
 publisher: null
 starred: true
 url: maya-hayuk/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![Maya Hayuk](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b48c18f1fe3fb32b4d1e53803d8e472695a86e5c.jpg)
