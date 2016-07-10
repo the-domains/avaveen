@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-04T20:39:47.502Z'
-dateModified: '2016-07-04T20:39:33.751Z'
+datePublished: '2016-07-10T10:21:34.753Z'
+dateModified: '2016-07-04T20:40:33.201Z'
 title: ''
 author:
   - name: ''
@@ -16,7 +16,7 @@ authors: []
 publisher: null
 starred: false
 url: sebal-abscon/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43b5c374-06c9-4d7c-9e69-a29ca715deed.jpg)
