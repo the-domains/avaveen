@@ -5,15 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-10T10:22:28.734Z'
-dateModified: '2016-07-10T10:22:22.564Z'
+datePublished: '2016-07-25T12:02:58.753Z'
+dateModified: '2016-07-22T11:06:34.112Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-07-01-sebal-abscon.md
 authors: []
-publisher: null
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+via: {}
 starred: false
 url: sebal-abscon/index.html
 _type: MediaObject
